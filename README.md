@@ -1,5 +1,6 @@
 # Weather-App
 Real-time weather data for any city using OpenWeatherMap API. Just type a city name and get instant temperature and weather icon.
+
 <img width="700" height="700" alt="Weather App Screenshot" src="https://github.com/user-attachments/assets/e040e3b5-5f6c-40ef-b03b-161ae2e808f0" />
 ## Features 
 
